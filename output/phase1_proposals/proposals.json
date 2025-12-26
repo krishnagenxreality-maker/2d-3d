@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "style": "modern minimalist",
+    "image": "output/phase1_proposals/option_1_modern_minimalist.png"
+  },
+  {
+    "id": 2,
+    "style": "luxury elegant",
+    "image": "output/phase1_proposals/option_2_luxury_elegant.png"
+  },
+  {
+    "id": 3,
+    "style": "scandinavian cozy",
+    "image": "output/phase1_proposals/option_3_scandinavian_cozy.png"
+  }
+]

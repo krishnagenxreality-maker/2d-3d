@@ -1,0 +1,266 @@
+{
+  "rooms": [
+    {
+      "type": "kitchen",
+      "label": "KITCHEN",
+      "position_px": {
+        "x": 240,
+        "y": 175
+      },
+      "position_m": {
+        "x": 4.8,
+        "y": 5.0
+      },
+      "furniture": [
+        "kitchen_counter",
+        "stove",
+        "sink"
+      ]
+    },
+    {
+      "type": "bedroom",
+      "label": "LIVING ROOM",
+      "position_px": {
+        "x": 381,
+        "y": 215
+      },
+      "position_m": {
+        "x": 5.5,
+        "y": 5.0
+      },
+      "furniture": [
+        "bed",
+        "wardrobe"
+      ]
+    },
+    {
+      "type": "bathroom",
+      "label": "BATH",
+      "position_px": {
+        "x": 232,
+        "y": 264
+      },
+      "position_m": {
+        "x": 4.64,
+        "y": 5.0
+      },
+      "furniture": [
+        "toilet",
+        "sink"
+      ]
+    },
+    {
+      "type": "bedroom",
+      "label": "BEDROOM",
+      "position_px": {
+        "x": 525,
+        "y": 392
+      },
+      "position_m": {
+        "x": 5.5,
+        "y": 4.16
+      },
+      "furniture": [
+        "bed",
+        "wardrobe"
+      ]
+    }
+  ],
+  "furniture": [
+    {
+      "name": "kitchen_counter",
+      "room": "kitchen",
+      "position": {
+        "x": 2.0,
+        "y": 2.0,
+        "z": 0
+      }
+    },
+    {
+      "name": "stove",
+      "room": "kitchen",
+      "position": {
+        "x": 2.0,
+        "y": 2.0,
+        "z": 0
+      }
+    },
+    {
+      "name": "sink",
+      "room": "kitchen",
+      "position": {
+        "x": 2.0,
+        "y": 2.0,
+        "z": 0
+      }
+    },
+    {
+      "name": "bed",
+      "room": "bedroom",
+      "position": {
+        "x": 1.5,
+        "y": 2.0,
+        "z": 0
+      }
+    },
+    {
+      "name": "wardrobe",
+      "room": "bedroom",
+      "position": {
+        "x": 2.5,
+        "y": 2.0,
+        "z": 0
+      }
+    },
+    {
+      "name": "toilet",
+      "room": "bathroom",
+      "position": {
+        "x": 2.0,
+        "y": 2.0,
+        "z": 0
+      }
+    },
+    {
+      "name": "sink",
+      "room": "bathroom",
+      "position": {
+        "x": 2.0,
+        "y": 2.0,
+        "z": 0
+      }
+    },
+    {
+      "name": "bed",
+      "room": "bedroom",
+      "position": {
+        "x": 1.5,
+        "y": 2.0,
+        "z": 0
+      }
+    },
+    {
+      "name": "wardrobe",
+      "room": "bedroom",
+      "position": {
+        "x": 2.5,
+        "y": 2.0,
+        "z": 0
+      }
+    }
+  ],
+  "image_info": {
+    "width": 800,
+    "height": 600
+  },
+  "detected_texts": [
+    {
+      "text": "918 NICKEL HI AVE",
+      "conf": 80
+    },
+    {
+      "text": "GFA 612 SQ FT",
+      "conf": 92
+    },
+    {
+      "text": "KITCHEN",
+      "conf": 100
+    },
+    {
+      "text": "47 SQ FT",
+      "conf": 58
+    },
+    {
+      "text": "LIVING ROOM",
+      "conf": 98
+    },
+    {
+      "text": "209 SQ FT",
+      "conf": 87
+    },
+    {
+      "text": "BATH",
+      "conf": 75
+    },
+    {
+      "text": "54 SQ FT",
+      "conf": 99
+    },
+    {
+      "text": "4",
+      "conf": 42
+    },
+    {
+      "text": "20' 5\"",
+      "conf": 82
+    },
+    {
+      "text": "12' 10\"",
+      "conf": 65
+    },
+    {
+      "text": "ENTERANCE",
+      "conf": 89
+    },
+    {
+      "text": "BEDROOM",
+      "conf": 100
+    },
+    {
+      "text": "87 SQ FT",
+      "conf": 97
+    },
+    {
+      "text": "101 SQ FT",
+      "conf": 99
+    },
+    {
+      "text": "13' 11\"",
+      "conf": 58
+    },
+    {
+      "text": "SKYLINE",
+      "conf": 85
+    },
+    {
+      "text": "OAI PO",
+      "conf": 5
+    },
+    {
+      "text": "MLUEEEAUIG",
+      "conf": 0
+    },
+    {
+      "text": "MANEUTEURIERITS 4464 @AYOUE",
+      "conf": 1
+    },
+    {
+      "text": "END MEY 6A UNCNTED",
+      "conf": 5
+    },
+    {
+      "text": "\"D\"EGA",
+      "conf": 1
+    },
+    {
+      "text": "PUNNOL",
+      "conf": 4
+    },
+    {
+      "text": "JATIM NI ITTNUE",
+      "conf": 2
+    },
+    {
+      "text": "ATAMAY",
+      "conf": 1
+    },
+    {
+      "text": "IDAD",
+      "conf": 23
+    },
+    {
+      "text": "JRLCIICATE",
+      "conf": 2
+    }
+  ]
+}

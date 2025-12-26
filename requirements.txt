@@ -1,0 +1,14 @@
+opencv-python
+numpy
+trimesh
+Pillow
+matplotlib
+scikit-image
+ifcopenshell
+torch
+torchvision
+diffusers
+transformers
+accelerate
+easyocr
+streamlit

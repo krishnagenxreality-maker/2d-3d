@@ -1,0 +1,26 @@
+# Virtual environments
+.venv310/
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Large model files (exceeds GitHub 100MB limit)
+*.obj
+*.fbx
