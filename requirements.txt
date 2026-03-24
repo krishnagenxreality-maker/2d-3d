@@ -12,3 +12,6 @@ transformers
 accelerate
 easyocr
 streamlit
+shapely
+mapbox_earcut
+manifold3d
